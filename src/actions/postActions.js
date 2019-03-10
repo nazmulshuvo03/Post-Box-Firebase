@@ -1,6 +1,9 @@
 export const createPost = post => {
-  return {
-    type: "CREATE_POST",
-    post
-  };
+  return (dispatch, getState) => {
+    //
+    dispatch({
+      type: "CREATE_POST",
+      post
+    })
+  }
 };

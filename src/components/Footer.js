@@ -8,7 +8,7 @@ const Navbar = () => {
         <div className="col l6 s6">
         <h5 className="white-text">Nazmul Alom</h5>
           <p className="grey-text text-lighten-4">
-            This site is created using React and Redux with Materialize CSS
+            This site is created using React, Redux and Firebase with Materialize CSS
           </p>
         </div>
 
