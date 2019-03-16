@@ -2,9 +2,10 @@
   "name": "post-box-firebase",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://nazmulshuvo03.github.io/Post-Box-Redux",
+  "homepage": "https://nazmulshuvo03.github.io/Post-Box-Firebase",
   "dependencies": {
     "firebase": "^5.8.6",
+    "gh-pages": "^2.0.1",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
     "react-redux": "^5.1.1",
@@ -18,7 +19,7 @@
   "scripts": {
     "start": "react-scripts start",
     "predeploy": "npm run build",
-   	"deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
