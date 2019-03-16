@@ -1,13 +1,13 @@
 {
-  "main.css": "/Post-Box-Redux/static/css/main.fae16929.chunk.css",
-  "main.js": "/Post-Box-Redux/static/js/main.d47313d3.chunk.js",
-  "main.js.map": "/Post-Box-Redux/static/js/main.d47313d3.chunk.js.map",
-  "runtime~main.js": "/Post-Box-Redux/static/js/runtime~main.142e92f5.js",
-  "runtime~main.js.map": "/Post-Box-Redux/static/js/runtime~main.142e92f5.js.map",
-  "static/js/2.4cebad9a.chunk.js": "/Post-Box-Redux/static/js/2.4cebad9a.chunk.js",
-  "static/js/2.4cebad9a.chunk.js.map": "/Post-Box-Redux/static/js/2.4cebad9a.chunk.js.map",
-  "index.html": "/Post-Box-Redux/index.html",
-  "precache-manifest.959e0bda432002b311da92f3305c356e.js": "/Post-Box-Redux/precache-manifest.959e0bda432002b311da92f3305c356e.js",
-  "service-worker.js": "/Post-Box-Redux/service-worker.js",
-  "static/css/main.fae16929.chunk.css.map": "/Post-Box-Redux/static/css/main.fae16929.chunk.css.map"
+  "main.css": "/Post-Box-Firebase/static/css/main.fae16929.chunk.css",
+  "main.js": "/Post-Box-Firebase/static/js/main.d47313d3.chunk.js",
+  "main.js.map": "/Post-Box-Firebase/static/js/main.d47313d3.chunk.js.map",
+  "runtime~main.js": "/Post-Box-Firebase/static/js/runtime~main.e1ca6ecb.js",
+  "runtime~main.js.map": "/Post-Box-Firebase/static/js/runtime~main.e1ca6ecb.js.map",
+  "static/js/2.6b90b76e.chunk.js": "/Post-Box-Firebase/static/js/2.6b90b76e.chunk.js",
+  "static/js/2.6b90b76e.chunk.js.map": "/Post-Box-Firebase/static/js/2.6b90b76e.chunk.js.map",
+  "index.html": "/Post-Box-Firebase/index.html",
+  "precache-manifest.4be85268d8c49e440bd24233f0f46381.js": "/Post-Box-Firebase/precache-manifest.4be85268d8c49e440bd24233f0f46381.js",
+  "service-worker.js": "/Post-Box-Firebase/service-worker.js",
+  "static/css/main.fae16929.chunk.css.map": "/Post-Box-Firebase/static/css/main.fae16929.chunk.css.map"
 }

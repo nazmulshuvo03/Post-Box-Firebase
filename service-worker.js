@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Post-Box-Redux/precache-manifest.959e0bda432002b311da92f3305c356e.js"
+  "/Post-Box-Firebase/precache-manifest.4be85268d8c49e440bd24233f0f46381.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/Post-Box-Redux/index.html", {
+workbox.routing.registerNavigationRoute("/Post-Box-Firebase/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
