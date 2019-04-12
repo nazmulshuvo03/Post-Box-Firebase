@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Post-Box-Firebase/precache-manifest.83c1dedaeefe4aad0088228a2156baac.js"
+  "/Post-Box-Firebase/precache-manifest.f1a80a24bde7cda5797a2702df5d9fc9.js"
 );
 
 workbox.clientsClaim();

@@ -1,13 +1,13 @@
 {
-  "main.css": "/Post-Box-Firebase/static/css/main.fae16929.chunk.css",
-  "main.js": "/Post-Box-Firebase/static/js/main.798e9ed4.chunk.js",
-  "main.js.map": "/Post-Box-Firebase/static/js/main.798e9ed4.chunk.js.map",
+  "main.css": "/Post-Box-Firebase/static/css/main.f14d5b6f.chunk.css",
+  "main.js": "/Post-Box-Firebase/static/js/main.365c57b9.chunk.js",
+  "main.js.map": "/Post-Box-Firebase/static/js/main.365c57b9.chunk.js.map",
   "runtime~main.js": "/Post-Box-Firebase/static/js/runtime~main.e1ca6ecb.js",
   "runtime~main.js.map": "/Post-Box-Firebase/static/js/runtime~main.e1ca6ecb.js.map",
-  "static/js/2.2955e132.chunk.js": "/Post-Box-Firebase/static/js/2.2955e132.chunk.js",
-  "static/js/2.2955e132.chunk.js.map": "/Post-Box-Firebase/static/js/2.2955e132.chunk.js.map",
+  "static/js/2.6b90b76e.chunk.js": "/Post-Box-Firebase/static/js/2.6b90b76e.chunk.js",
+  "static/js/2.6b90b76e.chunk.js.map": "/Post-Box-Firebase/static/js/2.6b90b76e.chunk.js.map",
   "index.html": "/Post-Box-Firebase/index.html",
-  "precache-manifest.83c1dedaeefe4aad0088228a2156baac.js": "/Post-Box-Firebase/precache-manifest.83c1dedaeefe4aad0088228a2156baac.js",
+  "precache-manifest.f1a80a24bde7cda5797a2702df5d9fc9.js": "/Post-Box-Firebase/precache-manifest.f1a80a24bde7cda5797a2702df5d9fc9.js",
   "service-worker.js": "/Post-Box-Firebase/service-worker.js",
-  "static/css/main.fae16929.chunk.css.map": "/Post-Box-Firebase/static/css/main.fae16929.chunk.css.map"
+  "static/css/main.f14d5b6f.chunk.css.map": "/Post-Box-Firebase/static/css/main.f14d5b6f.chunk.css.map"
 }
