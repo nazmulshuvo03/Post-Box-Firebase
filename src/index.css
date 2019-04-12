@@ -15,7 +15,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #e0e0e0;
+  background-color: #eeeeee;
 }
 
 form {
@@ -75,6 +75,6 @@ form h3 {
 input[type="text"]:not(.browser-default):focus:not([readonly]),
 input[type="number"]:not(.browser-default):focus:not([readonly]),
 textarea.materialize-textarea:focus:not([readonly]) {
-  border-color: #616161;
+  border-color: #6a1b9a;
   box-shadow: none;
 }

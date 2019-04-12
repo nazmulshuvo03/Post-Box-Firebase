@@ -3,12 +3,13 @@ import { Link } from "react-router-dom";
 
 const Navbar = () => {
   return (
-    <footer className="page-footer grey darken-3 z-depth-5">
+    <footer className="page-footer purple darken-4 z-depth-5">
       <div className="row container z-depth-5">
         <div className="col l6 s6">
-        <h5 className="white-text">Nazmul Alom</h5>
+          <h5 className="white-text">Nazmul Alom</h5>
           <p className="grey-text text-lighten-4">
-            This site is created using React, Redux and Firebase with Materialize CSS
+            This site is created using React, Redux and Firebase with
+            Materialize CSS
           </p>
         </div>
 
@@ -36,25 +37,35 @@ const Navbar = () => {
                 <li className="col">
                   <a
                     href="https://www.linkedin.com/in/nazmul-alom-441180125/"
-                    target="_blank" rel="noopener noreferrer"
+                    target="_blank"
+                    rel="noopener noreferrer"
                   >
                     <i className="fab fa-linkedin-in white-text text-darken-1" />
                   </a>
                 </li>
                 <li className="col">
-                  <a href="https://twitter.com/nazmulshuvo03" target="_blank" rel="noopener noreferrer">
+                  <a
+                    href="https://twitter.com/nazmulshuvo03"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
                     <i className="fab fa-twitter white-text text-darken-1" />
                   </a>
                 </li>
                 <li className="col">
-                  <a href="https://github.com/nazmulshuvo03" target="_blank" rel="noopener noreferrer">
+                  <a
+                    href="https://github.com/nazmulshuvo03"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
                     <i className="fab fa-github white-text text-darken-1" />
                   </a>
                 </li>
                 <li className="col">
                   <a
                     href="https://codesandbox.io/u/nazmulshuvo03"
-                    target="_blank" rel="noopener noreferrer"
+                    target="_blank"
+                    rel="noopener noreferrer"
                   >
                     <i className="fab fa-react white-text text-darken-1" />
                   </a>
